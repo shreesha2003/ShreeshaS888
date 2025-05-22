@@ -11,20 +11,20 @@
 
 ---
 
-### Languages and Tools:
+### Tech Stack:
 <p align="left">
   <!-- Core Programming & ML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" title="Scikit-learn"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40"/>
 
   <!-- Visualization -->
-  <img src="https://matplotlib.org/_static/logo2_compressed.svg" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/seaborn.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="40" height="40"/>
+  <img src="https://matplotlib.org/_static/logo2_compressed.svg" width="40" height="40" title="Matplotlib"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" height="40" title="Seaborn"/>
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="40" height="40" title="Tableau"/>
 
   <!-- Tools & IDEs -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>

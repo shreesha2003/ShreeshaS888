@@ -5,7 +5,7 @@
 ### 🔗 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/your-linkedin-id/" target="_blank">
-    <img src="[https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"](https://images.app.goo.gl/48yXcJeuEagPEKNw6)/>
+    <img src="https://i.imgur.com/6RAxg5l.png" width="32" height="32" alt="LinkedIn"/>
   </a>
 </p>
 
